@@ -1,0 +1,9 @@
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\bin\Debug\Battleship.XML
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\bin\Debug\FSharp.Core.dll
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\bin\Debug\System.ValueTuple.dll
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\bin\Debug\FSharp.Core.xml
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\rsmith\Documents\Visual Studio 2017\Projects\Battleship\Battleship\obj\Debug\Battleship.pdb
